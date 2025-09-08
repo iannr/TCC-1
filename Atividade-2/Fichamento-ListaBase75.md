@@ -37,7 +37,7 @@ O artigo avalia a capacidade do **ChatGPT** em **corrigir testes instáveis (fla
 
 ## 3. Fichamento Bibliográfico
 
-### 3.1 Conceitos (nas minhas palavras)
+### 3.1 Conceitos
 - **Flaky Test:** teste que apresenta resultados inconsistentes, mesmo sem alteração no código.  
 - **Non-Order-Dependent Test:** teste que falha de forma intermitente, mas não devido à ordem de execução.  
 - **LLMs (Large Language Models):** modelos de linguagem, como ChatGPT, aplicados para automação em QA.  

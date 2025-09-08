@@ -38,7 +38,7 @@ O artigo investiga **quais fatores caracterizam métodos de teste de alta qualid
 
 ## 3. Fichamento Bibliográfico
 
-### 3.1 Conceitos (nas minhas palavras)
+### 3.1 Conceitos
 - **Test Method Quality:** conjunto de atributos (clareza, assertividade, independência) que determinam se um teste é eficaz e confiável.  
 - **Assertion Density:** indicador da proporção de verificações em relação ao tamanho do teste.  
 - **Independence:** capacidade de um teste rodar sem depender da ordem ou estado de outros testes.  

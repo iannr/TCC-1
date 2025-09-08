@@ -36,7 +36,7 @@ O artigo realiza uma **comparação entre testes manuais e testes automatizados*
 
 ## 3. Fichamento Bibliográfico
 
-### 3.1 Conceitos (nas minhas palavras)
+### 3.1 Conceitos
 - **Test Case Generation:** processo de criar casos de teste para validar comportamento do software.  
 - **Cobertura de Testes:** porcentagem do código ou funcionalidades exercitadas pelos testes.  
 - **Hybrid Testing:** combinação de testes manuais e automáticos.  

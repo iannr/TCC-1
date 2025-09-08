@@ -36,7 +36,7 @@ O artigo avalia o uso de **LLMs** para **gerar resumos automáticos de casos de 
 
 ## 3. Fichamento Bibliográfico
 
-### 3.1 Conceitos (nas minhas palavras)
+### 3.1 Conceitos
 - **Test Case Summaries:** descrições simplificadas que explicam rapidamente o objetivo de um caso de teste.  
 - **Program Comprehension:** disciplina focada em entender código/software existente.  
 - **LLMs aplicados a QA:** uso de modelos de linguagem para apoiar entendimento e manutenção de testes.  

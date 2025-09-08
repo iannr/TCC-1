@@ -37,7 +37,7 @@ O artigo propõe uma técnica para **geração automática de casos de teste par
 
 ## 3. Fichamento Bibliográfico
 
-### 3.1 Conceitos (nas minhas palavras)
+### 3.1 Conceitos
 - **REST APIs:** interfaces de comunicação baseadas em HTTP, fundamentais em sistemas modernos.  
 - **Test-Case Generation:** processo de criar automaticamente entradas e saídas esperadas para validar endpoints.  
 - **Model Inference Heuristic:** técnica que gera modelos de comportamento da API e infere testes a partir deles.  

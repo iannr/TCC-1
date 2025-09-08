@@ -35,7 +35,7 @@ O artigo realiza um **survey sobre métricas de cobertura aplicadas a testes de 
 
 ## 3. Fichamento Bibliográfico
 
-### 3.1 Conceitos (nas minhas palavras)
+### 3.1 Conceitos
 - **Coverage Metrics:** indicadores que medem quanto do software foi exercitado pelos testes.  
 - **Game Testing:** processo de validação de jogos digitais, que envolve aspectos técnicos e experienciais.  
 - **Functional vs. Non-functional Coverage:** diferenciação entre testar o código e testar a experiência/jogabilidade.  
