@@ -6,18 +6,9 @@
 **Fonte:** Lista Base (Artigo nº 75)  
 **Link:** https://dl.acm.org/doi/pdf/10.1145/3643656.3643900  
 
----
 
-## 1. Fichamento de Citações
-> “Test flakiness, especially order-dependent tests, is one of the major challenges in software quality assurance.”  
->  
-> “Large Language Models, such as ChatGPT, show potential in repairing non-order-dependent flaky tests automatically.”  
->  
-> “However, automation does not fully eliminate the need for developer oversight.”
 
----
-
-## 2. Fichamento de Conteúdo
+## 1. Fichamento de Conteúdo
 O artigo avalia a capacidade do ChatGPT em corrigir testes instáveis (flaky tests), com foco nos não-dependentes de ordem.  
 - Problema: Testes *flaky* reduzem a confiabilidade e dificultam a automação, pois podem falhar ou passar de forma intermitente.  
 - Objetivo: Explorar se LLMs conseguem reparar automaticamente esses testes.  
@@ -35,21 +26,30 @@ O artigo avalia a capacidade do ChatGPT em corrigir testes instáveis (flaky tes
 
 ---
 
-## 3. Fichamento Bibliográfico
+## 2. Fichamento Bibliográfico
 
-### 3.1 Conceitos
+### 2.1 Conceitos
 - Flaky Test: teste que apresenta resultados inconsistentes, mesmo sem alteração no código.  
 - Non-Order-Dependent Test: teste que falha de forma intermitente, mas não devido à ordem de execução.  
 - LLMs (Large Language Models): modelos de linguagem, como ChatGPT, aplicados para automação em QA.  
 
-### 3.2 Ferramentas/Sistemas/Bibliotecas
+### 2.2 Ferramentas/Sistemas/Bibliotecas
 - ChatGPT (OpenAI): usado como ferramenta de reparo automatizado de testes.  
 - Repositórios GitHub: base de dados para extração dos flaky tests.  
 
-### 3.3 Teorias/Métodos
+### 2.3 Teorias/Métodos
 - Estudo empírico: análise experimental sobre a eficácia do ChatGPT em corrigir testes.  
 - Validação prática: comparação entre testes originais e reparados.  
 - Análise qualitativa: classificação dos tipos de reparos bem-sucedidos e falhos.  
+
+---
+
+## 3. Fichamento de Citações
+> “Test flakiness, especially order-dependent tests, is one of the major challenges in software quality assurance.”  
+>  
+> “Large Language Models, such as ChatGPT, show potential in repairing non-order-dependent flaky tests automatically.”  
+>  
+> “However, automation does not fully eliminate the need for developer oversight.”
 
 ---
 

@@ -6,18 +6,9 @@
 **Fonte:** Lista Base (Artigo nº 71)  
 **Link:** https://dl.acm.org/doi/pdf/10.1145/3643658#page=23  
 
----
 
-## 1. Fichamento de Citações
-> “Game testing differs from traditional software testing due to the interactive and non-deterministic nature of gameplay.”  
->  
-> “Coverage metrics remain the most used criteria to evaluate effectiveness of automated tests in games.”  
->  
-> “Our survey indicates that measuring coverage in game testing requires combining functional and non-functional aspects.”
 
----
-
-## 2. Fichamento de Conteúdo
+## 1. Fichamento de Conteúdo
 O artigo realiza um survey sobre métricas de cobertura aplicadas a testes de jogos digitais.  
 - Problema: Testes de jogos possuem características únicas (interatividade, não-determinismo) que dificultam o uso de métricas tradicionais.  
 - Objetivo: Mapear como métricas de cobertura são aplicadas em automação de testes de jogos.  
@@ -33,20 +24,29 @@ O artigo realiza um survey sobre métricas de cobertura aplicadas a testes de jo
 
 ---
 
-## 3. Fichamento Bibliográfico
+## 2. Fichamento Bibliográfico
 
-### 3.1 Conceitos
+### 2.1 Conceitos
 - Coverage Metrics: indicadores que medem quanto do software foi exercitado pelos testes.  
 - Game Testing: processo de validação de jogos digitais, que envolve aspectos técnicos e experienciais.  
 - Functional vs. Non-functional Coverage: diferenciação entre testar o código e testar a experiência/jogabilidade.  
 
-### 3.2 Ferramentas/Sistemas/Bibliotecas
+### 2.2 Ferramentas/Sistemas/Bibliotecas
 - Motores de jogo (ex.: Unity, Unreal) citados como ambientes onde métricas precisam ser adaptadas.  
 - Frameworks de teste automatizado para jogos, mencionados em estudos analisados.  
 
-### 3.3 Teorias/Métodos
+### 2.3 Teorias/Métodos
 - Survey de literatura e prática industrial: análise de múltiplas fontes para consolidar o estado da arte.  
 - Classificação de métricas: categorização entre funcionais e não-funcionais.  
+
+---
+
+## 3. Fichamento de Citações
+> “Game testing differs from traditional software testing due to the interactive and non-deterministic nature of gameplay.”  
+>  
+> “Coverage metrics remain the most used criteria to evaluate effectiveness of automated tests in games.”  
+>  
+> “Our survey indicates that measuring coverage in game testing requires combining functional and non-functional aspects.”
 
 ---
 

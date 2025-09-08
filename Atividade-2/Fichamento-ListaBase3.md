@@ -6,18 +6,8 @@
 **Fonte:** Lista Base (Artigo nº 3)  
 **Link:** https://doi.org/10.1145/3524842.3529092  
 
----
 
-## 1. Fichamento de Citações
-> “High-quality test methods are essential to ensure software reliability and maintainability, but little empirical evidence exists on what characterizes such methods.”  
->  
-> “Our study shows that metrics such as readability, assertion density, and independence are strongly correlated with high-quality test methods.”  
->  
-> “Automated static analysis can be leveraged to detect low-quality tests early, reducing maintenance costs.”
-
----
-
-## 2. Fichamento de Conteúdo
+## 1. Fichamento de Conteúdo
 O artigo investiga quais fatores caracterizam métodos de teste de alta qualidade em projetos de software.  
 - Problema: Falta de consenso e evidência empírica sobre como definir e identificar testes de qualidade.  
 - Objetivo: Avaliar métricas quantitativas que podem servir como indicadores de qualidade de testes.  
@@ -36,21 +26,30 @@ O artigo investiga quais fatores caracterizam métodos de teste de alta qualidad
 
 ---
 
-## 3. Fichamento Bibliográfico
+## 2. Fichamento Bibliográfico
 
-### 3.1 Conceitos
+### 2.1 Conceitos
 - Test Method Quality: conjunto de atributos (clareza, assertividade, independência) que determinam se um teste é eficaz e confiável.  
 - Assertion Density: indicador da proporção de verificações em relação ao tamanho do teste.  
 - Independence: capacidade de um teste rodar sem depender da ordem ou estado de outros testes.  
 
-### 3.2 Ferramentas/Sistemas/Bibliotecas
+### 2.2 Ferramentas/Sistemas/Bibliotecas
 - Static Analysis Tools (ex.: SonarQube, PMD) — usadas para medir métricas automaticamente.  
 - Repositórios GitHub — base de dados empírica utilizada no estudo.  
 
-### 3.3 Teorias/Métodos
+### 2.3 Teorias/Métodos
 - Engenharia de Software Experimental: abordagem científica baseada em coleta e análise de dados reais.  
 - Método Quantitativo: análise estatística de métricas de qualidade em larga escala.  
 - Validação cruzada: repetição em múltiplos repositórios para garantir robustez dos resultados.  
+
+---
+
+## 3. Fichamento de Citações
+> “High-quality test methods are essential to ensure software reliability and maintainability, but little empirical evidence exists on what characterizes such methods.”  
+>  
+> “Our study shows that metrics such as readability, assertion density, and independence are strongly correlated with high-quality test methods.”  
+>  
+> “Automated static analysis can be leveraged to detect low-quality tests early, reducing maintenance costs.”
 
 ---
 

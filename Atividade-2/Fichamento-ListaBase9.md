@@ -6,18 +6,8 @@
 **Fonte:** Lista Base (Artigo nº 9)  
 **Link:** https://ieeexplore.ieee.org/abstract/document/9810694  
 
----
 
-## 1. Fichamento de Citações
-> “Manual testing remains prevalent in scientific software projects, but automation promises efficiency and broader coverage.”  
->  
-> “Our study shows that automatic test generation produces more test cases but not necessarily higher effectiveness.”  
->  
-> “Hybrid strategies that combine manual insight with automation may achieve the best trade-off between cost and quality.”
-
----
-
-## 2. Fichamento de Conteúdo
+## 1. Fichamento de Conteúdo
 O artigo realiza uma comparação entre testes manuais e testes automatizados no contexto de software científico.  
 - Problema: Dúvidas sobre a efetividade real da automação em relação à testagem manual tradicional.  
 - Objetivo: Avaliar qualidade, cobertura e custo dos testes manuais vs. automáticos.  
@@ -34,20 +24,29 @@ O artigo realiza uma comparação entre testes manuais e testes automatizados no
 
 ---
 
-## 3. Fichamento Bibliográfico
+## 2. Fichamento Bibliográfico
 
-### 3.1 Conceitos
+### 2.1 Conceitos
 - Test Case Generation: processo de criar casos de teste para validar comportamento do software.  
 - Cobertura de Testes: porcentagem do código ou funcionalidades exercitadas pelos testes.  
 - Hybrid Testing: combinação de testes manuais e automáticos.  
 
-### 3.2 Ferramentas/Sistemas/Bibliotecas
+### 2.2 Ferramentas/Sistemas/Bibliotecas
 - Ferramentas de geração automática de testes (não especificadas nominalmente, mas utilizadas no estudo para Python).  
 - Projeto científico em Python como base experimental.  
 
-### 3.3 Teorias/Métodos
+### 2.3 Teorias/Métodos
 - Estudo empírico comparativo: comparação de abordagens distintas sob critérios definidos (eficiência, eficácia, custo).  
 - Métricas de cobertura e eficácia: número de falhas detectadas, linhas de código cobertas, tempo gasto.  
+
+---
+
+## 3. Fichamento de Citações
+> “Manual testing remains prevalent in scientific software projects, but automation promises efficiency and broader coverage.”  
+>  
+> “Our study shows that automatic test generation produces more test cases but not necessarily higher effectiveness.”  
+>  
+> “Hybrid strategies that combine manual insight with automation may achieve the best trade-off between cost and quality.”
 
 ---
 

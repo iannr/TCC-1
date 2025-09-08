@@ -6,18 +6,8 @@
 **Fonte:** Lista Base (Artigo nº 91)  
 **Link:** https://azaidman.github.io/publications/djajadiICPC2025.pdf  
 
----
 
-## 1. Fichamento de Citações
-> “Understanding existing test cases is a prerequisite for effective test maintenance and automation.”  
->  
-> “Large Language Models can automatically generate concise summaries that improve test comprehensibility.”  
->  
-> “Improved readability of tests facilitates collaboration among QA teams and supports the transition to automation.”
-
----
-
-## 2. Fichamento de Conteúdo
+## 1. Fichamento de Conteúdo
 O artigo avalia o uso de LLMs para gerar resumos automáticos de casos de teste, com foco em tornar testes mais compreensíveis.  
 - Problema: Casos de teste tendem a ser complexos e pouco documentados, dificultando manutenção e automação.  
 - Objetivo: Verificar se resumos automáticos podem apoiar times de QA na compreensão e migração de testes.  
@@ -34,21 +24,30 @@ O artigo avalia o uso de LLMs para gerar resumos automáticos de casos de teste,
 
 ---
 
-## 3. Fichamento Bibliográfico
+## 2. Fichamento Bibliográfico
 
-### 3.1 Conceitos
+### 2.1 Conceitos
 - Test Case Summaries: descrições simplificadas que explicam rapidamente o objetivo de um caso de teste.  
 - Program Comprehension: disciplina focada em entender código/software existente.  
 - LLMs aplicados a QA:uso de modelos de linguagem para apoiar entendimento e manutenção de testes.  
 
-### 3.2 Ferramentas/Sistemas/Bibliotecas
+### 2.2 Ferramentas/Sistemas/Bibliotecas
 - LLMs (como GPT-4): empregados para gerar resumos automáticos.  
 -Repositórios de teste reais: usados como base experimental no estudo.  
 
-### 3.3 Teorias/Métodos
+### 2.3 Teorias/Métodos
 - Estudo empírico com avaliação humana: desenvolvedores e QAs avaliaram os resumos.  
 - Métricas de usabilidade: clareza, concisão e utilidade como indicadores principais.  
 - Método misto: análise quantitativa (questionários) + qualitativa (feedback textual).  
+
+---
+
+## 3. Fichamento de Citações
+> “Understanding existing test cases is a prerequisite for effective test maintenance and automation.”  
+>  
+> “Large Language Models can automatically generate concise summaries that improve test comprehensibility.”  
+>  
+> “Improved readability of tests facilitates collaboration among QA teams and supports the transition to automation.”
 
 ---
 
