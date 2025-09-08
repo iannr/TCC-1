@@ -8,19 +8,8 @@
 
 
 ## 1. Fichamento de Conteúdo
-O artigo avalia o uso de LLMs para gerar resumos automáticos de casos de teste, com foco em tornar testes mais compreensíveis.  
-- Problema: Casos de teste tendem a ser complexos e pouco documentados, dificultando manutenção e automação.  
-- Objetivo: Verificar se resumos automáticos podem apoiar times de QA na compreensão e migração de testes.  
-- Metodologia:
-  - Aplicação de LLMs em bases de casos de teste reais.  
-  - Avaliação por desenvolvedores e QAs sobre clareza, concisão e utilidade dos resumos.  
--Resultados: 
-  - Resumos gerados foram considerados úteis e ajudaram na compreensão rápida.  
-  - Melhoraram a colaboração em times de QA.  
-  - Possibilitam redução de barreiras culturais na adoção de automação, pois facilitam a comunicação entre QAs manuais e automatizados.  
-- Implicações:  
-  - IA pode ser usada não apenas para criar testes, mas também para tornar testes existentes mais acessíveis.  
-  - Apoia processos de treinamento e integração de novos membros em times de QA.  
+
+O artigo investiga o uso de modelos de linguagem de grande porte (LLMs) para gerar resumos automáticos de casos de teste, com o intuito de facilitar a compreensão e a manutenção desses artefatos. O problema discutido é que casos de teste, muitas vezes extensos e mal documentados, dificultam o trabalho de equipes de QA, especialmente em contextos de automação, onde a clareza é essencial para garantir confiabilidade e colaboração. O objetivo do estudo foi verificar se resumos gerados por IA poderiam melhorar a legibilidade e apoiar tanto desenvolvedores quanto testadores. Para isso, os autores aplicaram LLMs sobre bases reais de casos de teste e pediram a profissionais que avaliassem os resumos quanto à clareza, concisão e utilidade. Os resultados mostraram que os resumos automáticos foram considerados relevantes, ajudando na compreensão rápida dos testes e facilitando a colaboração entre equipes. A pesquisa conclui que esse tipo de automação contribui não apenas para o aspecto técnico, mas também para a superação de barreiras culturais, já que torna a comunicação entre QA manual e QA automatizado mais eficiente, apoiando diretamente a migração de práticas tradicionais para processos de automação.
 
 ---
 

@@ -8,20 +8,8 @@
 
 
 ## 1. Fichamento de Conteúdo
-O artigo propõe uma técnica para geração automática de casos de teste para APIs REST, usando heurísticas de inferência de modelos.  
-- Problema: APIs REST são fundamentais, mas exigem grande esforço manual para testar múltiplos endpoints, parâmetros e fluxos.  
-- Objetivo: Automatizar a criação de casos de teste de forma eficiente e com maior cobertura.  
-- Metodologia:  
-  - Proposta de heurística baseada em inferência de modelos.  
-  - Avaliação empírica em APIs reais, comparando com geração manual.  
-Resultados:  
-  - Automação gera mais casos de teste em menos tempo.  
-  - A cobertura funcional foi superior à abordagem manual.  
-  - A qualidade dos testes depende de bons modelos de entrada, exigindo ajustes para contextos diferentes.  
-- Implicações:  
-  - Reduz custos e esforço de QA.  
-  - Apoia times em migração de testes manuais para automatizados.  
-  - Mostra que o desafio cultural está em confiar na automação e integrá-la ao fluxo de desenvolvimento.  
+
+O artigo propõe uma abordagem para a geração automática de casos de teste em APIs REST utilizando heurísticas baseadas em inferência de modelos. O estudo parte do problema de que a testagem de APIs é frequentemente trabalhosa e demanda esforço manual significativo, devido ao grande número de endpoints, parâmetros e fluxos possíveis. O objetivo dos autores foi reduzir esse esforço e aumentar a cobertura de forma automatizada. Para validar a proposta, foi desenvolvido um protótipo experimental que aplica heurísticas de busca sobre modelos inferidos a partir da especificação das APIs, permitindo a geração sistemática de cenários de teste. A avaliação, realizada em diferentes APIs reais, mostrou que a técnica é capaz de produzir um número expressivo de casos de teste em menos tempo, com cobertura superior à abordagem manual. Entretanto, a qualidade final dos testes ainda depende da qualidade dos modelos de entrada, o que exige ajustes em diferentes contextos. O estudo conclui que a automação desse processo pode reduzir custos e acelerar a validação de sistemas, mas também aponta que a adoção dessa prática exige das equipes de QA uma mudança cultural para confiar em ferramentas automáticas e incorporá-las ao fluxo de desenvolvimento.
 
 ---
 

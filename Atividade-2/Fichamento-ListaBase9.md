@@ -8,19 +8,8 @@
 
 
 ## 1. Fichamento de Conteúdo
-O artigo realiza uma comparação entre testes manuais e testes automatizados no contexto de software científico.  
-- Problema: Dúvidas sobre a efetividade real da automação em relação à testagem manual tradicional.  
-- Objetivo: Avaliar qualidade, cobertura e custo dos testes manuais vs. automáticos.  
-- Metodologia:  
-  - Experimento em projeto de software científico em Python.  
-  - Comparação de casos de teste gerados manualmente e casos gerados automaticamente por ferramentas.  
-- Resultados:  
-  - Automação gera mais testes e melhora cobertura.  
-  - Porém, nem sempre a eficácia em encontrar falhas supera o teste manual.  
-  - A combinação de testes manuais e automáticos apresenta melhores resultados gerais.  
-- Implicações:  
-  - Evidência empírica de que a migração para automação deve ser gradual e estratégica.  
-  - Mostra a importância do fator humano (insight dos testadores manuais) junto à automação.  
+
+O artigo apresenta uma comparação detalhada entre casos de teste manuais e casos de teste gerados automaticamente no contexto de software científico. O objetivo foi compreender até que ponto a automação supera ou complementa a testagem tradicional em termos de qualidade, cobertura e custo. Para isso, os autores realizaram um experimento em um projeto científico desenvolvido em Python, no qual foram aplicadas ferramentas de geração automática de testes e, em paralelo, casos foram elaborados manualmente por especialistas. A análise evidenciou que a automação é capaz de produzir um número maior de casos de teste e aumentar a cobertura do código, mas não necessariamente garante maior eficácia na detecção de falhas em comparação ao esforço humano. Os resultados sugerem que a estratégia mais promissora não está em substituir integralmente a testagem manual, mas em adotar uma abordagem híbrida que combine a criatividade e o conhecimento dos testadores humanos com a eficiência das ferramentas de automação. Essa constatação reforça a necessidade de uma migração gradual e planejada para a automação, considerando tanto os desafios técnicos quanto a aceitação cultural das equipes de QA.
 
 ---
 

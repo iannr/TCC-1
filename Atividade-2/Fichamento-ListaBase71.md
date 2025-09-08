@@ -9,18 +9,8 @@
 
 
 ## 1. Fichamento de Conteúdo
-O artigo realiza um survey sobre métricas de cobertura aplicadas a testes de jogos digitais.  
-- Problema: Testes de jogos possuem características únicas (interatividade, não-determinismo) que dificultam o uso de métricas tradicionais.  
-- Objetivo: Mapear como métricas de cobertura são aplicadas em automação de testes de jogos.  
-- Metodologia:  
-  - Levantamento de trabalhos acadêmicos e industriais sobre métricas em testes de jogos.  
-  - Classificação entre métricas funcionais (código, funcionalidades) e não-funcionais (jogabilidade, experiência).  
-- Resultados:  
-  - Métricas de cobertura são centrais na avaliação de testes automatizados, mas devem ser adaptadas ao contexto de jogos.  
-  - Combinação de métricas oferece melhor visão da eficácia e eficiência dos testes.  
-- Implicações:  
-  - Mostra que automação não é apenas técnica, mas também depende da definição de métricas adequadas.  
-  - Aponta que migração para testes automatizados exige adaptação cultural nos times, pois precisam aceitar novas formas de medir qualidade.  
+
+O artigo apresenta um levantamento sobre como métricas de cobertura são aplicadas em testes de jogos digitais, destacando as particularidades desse domínio em relação ao teste de software tradicional. O objetivo da pesquisa foi mapear práticas acadêmicas e industriais que utilizam métricas para avaliar a eficácia da automação em jogos, considerando tanto aspectos funcionais quanto não funcionais. Para isso, os autores realizaram um survey que analisou trabalhos existentes e experiências práticas de empresas, classificando métricas ligadas ao código e funcionalidades, bem como aquelas relacionadas à jogabilidade e à experiência do usuário. Os resultados apontaram que, embora a cobertura de código continue sendo amplamente utilizada, o contexto de jogos exige a combinação de métricas diferenciadas para capturar o caráter interativo e não determinístico da jogabilidade. O estudo conclui que a automação em testes de jogos só alcança bons resultados quando apoiada em métricas adaptadas, o que traz implicações diretas para os times de QA que precisam redefinir critérios de qualidade, enfrentando desafios não apenas técnicos, mas também culturais, ao adotar novas formas de medir eficiência e eficácia. 
 
 ---
 

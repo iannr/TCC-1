@@ -9,20 +9,7 @@
 
 
 ## 1. Fichamento de Conteúdo
-O artigo avalia a capacidade do ChatGPT em corrigir testes instáveis (flaky tests), com foco nos não-dependentes de ordem.  
-- Problema: Testes *flaky* reduzem a confiabilidade e dificultam a automação, pois podem falhar ou passar de forma intermitente.  
-- Objetivo: Explorar se LLMs conseguem reparar automaticamente esses testes.  
-- Metodologia:  
-  - Conjunto de testes instáveis extraídos de repositórios open-source.  
-  - Aplicação do ChatGPT para sugerir reparos.  
-  - Avaliação da efetividade e precisão das sugestões.  
-- Resultados:  
-  - ChatGPT conseguiu reparar um número significativo de casos.  
-  - Em alguns casos, os reparos não eram corretos ou introduziam novos problemas.  
-  - Conclusão:viável como ferramenta de apoio, mas não substitui revisão humana.  
-- Implicações:  
-  - IA pode apoiar a migração para testes automatizados mais estáveis.  
-  - O desafio cultural é convencer times de QA a confiar parcialmente na IA, mantendo supervisão crítica.  
+O artigo analisa o uso do ChatGPT como ferramenta de apoio na correção de testes instáveis, conhecidos como flaky tests, com foco naqueles que não dependem da ordem de execução. O problema abordado está no fato de que testes intermitentes prejudicam a confiabilidade do processo de QA e reduzem a confiança na automação, já que podem falhar ou passar sem que o código tenha sido alterado. O objetivo da pesquisa foi verificar se um modelo de linguagem de grande porte é capaz de identificar e reparar automaticamente esses testes, reduzindo o esforço manual. Para isso, os autores selecionaram um conjunto de testes instáveis de repositórios open-source e aplicaram o ChatGPT para sugerir reparos, avaliando a eficácia das correções. Os resultados mostraram que o modelo conseguiu reparar uma parte significativa dos casos, mas também apresentou limitações, como reparos incorretos ou a introdução de novos problemas em alguns cenários. A conclusão é que o ChatGPT pode ser usado como ferramenta complementar, acelerando a correção de testes, mas não substitui a revisão humana. Isso reforça a ideia de que, na migração de testes manuais para automatizados, os desafios não são apenas técnicos, mas também culturais, exigindo que as equipes aprendam a integrar soluções baseadas em IA de forma crítica e supervisionada.
 
 ---
 

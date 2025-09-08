@@ -8,21 +8,7 @@
 
 
 ## 1. Fichamento de Conteúdo
-O artigo investiga quais fatores caracterizam métodos de teste de alta qualidade em projetos de software.  
-- Problema: Falta de consenso e evidência empírica sobre como definir e identificar testes de qualidade.  
-- Objetivo: Avaliar métricas quantitativas que podem servir como indicadores de qualidade de testes.  
-- Metodologia:  
-  - Estudo empírico em milhares de métodos de teste de repositórios open-source.  
-  - Análise de métricas como:  
-    - Readability (clareza do código de teste).  
-    - Assertion density (quantidade de asserts por linha de código).  
-    - Independence (grau de isolamento de cada teste).  
-- Resultados:  
-  - As métricas propostas correlacionam-se fortemente com qualidade de testes.  
-  - Testes de qualidade apresentam maior manutenibilidade e menor probabilidade de falhas ocultas.  
-- Implicações:  
-  - Automatizar a avaliação da qualidade de testes pode reduzir custos de QA.  
-  - Fornece diretrizes objetivas para apoiar a migração de testes manuais para automatizados, já que testes automatizados podem ser validados pelas métricas.  
+O artigo investiga os fatores que caracterizam métodos de teste de alta qualidade em projetos de software, tema ainda pouco explorado de forma empírica. O objetivo do estudo foi identificar métricas capazes de diferenciar testes eficazes de testes problemáticos, com foco em aspectos como legibilidade, densidade de asserts e independência entre casos. Para isso, os autores realizaram uma análise em milhares de métodos de teste coletados de repositórios open-source, aplicando ferramentas de análise estática e técnicas de validação cruzada para assegurar a robustez dos achados. Os resultados demonstraram que testes com maior clareza na escrita, maior proporção de asserts por linha de código e maior independência em relação a outros testes tendem a apresentar melhor manutenibilidade e maior confiabilidade. A pesquisa conclui que o uso de métricas automatizadas para avaliar testes pode reduzir custos de manutenção, apoiar a migração de testes manuais para automatizados e oferecer diretrizes objetivas para times de QA que buscam melhorar a qualidade de seus testes.
 
 ---
 
